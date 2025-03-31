@@ -19,7 +19,7 @@ if ("`user'" == "jacop") {
 }
 
 if ("`user'" == "sarac") {
-    global filepath ""
+    global filepath "C:\Users\sarac\OneDrive\Desktop\PS2\files"
 }
 
 if ("`user'" == "samsung") {
